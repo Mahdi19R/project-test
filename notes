@@ -1,0 +1,11 @@
+git init // for initialization of git
+git add . //
+git commit -m "message"
+git status(optional)
+1-
+   a-git add .
+   b-git commit -m "add h2 tag"
+2-git add . && git comit -m "add h2 tag"
+3-git comit -a -m"add h2 tag"
+
+
